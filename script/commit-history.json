@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "a9a12813528e944b29995c24964880ad71b55bde",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-21T22:48:59.000Z",
       "message": "se creo un nuevo comentario",
-      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/a9a12813528e944b29995c24964880ad71b55bde"
     },
     "stats": {
       "total": 0,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-21T23:17:42.000Z",
+      "message": "Se hizo un commit con pruebas que pasan y se agrego dos archivos",
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-21"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
