@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "41a9bf491eb7248e009f0c74c5564cdf00e58296",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-22T00:36:03.000Z",
       "message": "Se elimino una prueba",
-      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/41a9bf491eb7248e009f0c74c5564cdf00e58296"
     },
     "stats": {
       "total": 0,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-22T00:56:34.000Z",
+      "message": "Se agregaron nuevas lineas de codigo",
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }
