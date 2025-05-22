@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8b649a2fdc901098d287e6ec9a1e1e38e8b3a16e",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-21T23:17:42.000Z",
       "message": "Se hizo un commit con pruebas que pasan y se agrego dos archivos",
-      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/8b649a2fdc901098d287e6ec9a1e1e38e8b3a16e"
     },
     "stats": {
       "total": 0,
@@ -36,5 +36,24 @@
     "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Dylan",
+    "commit": {
+      "date": "2025-05-22T00:11:31.000Z",
+      "message": "Se borro los archivos principales con pruebas y logica de negocio en codigo js",
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-05-22"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
