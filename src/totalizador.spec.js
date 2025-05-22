@@ -11,7 +11,5 @@ describe("Mostrar Items", () => {
     it("Deberia mostrar el numero ingresado", () => {
         expect(showCant(20)).toEqual(20); 
     });
-    it("Deberia mostrar el numero ingresado", () => {
-        expect(showCant(20)).toEqual(20); 
-    });
+    
 });
