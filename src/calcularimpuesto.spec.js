@@ -17,5 +17,8 @@ describe('calcularImpuesto', () => {
     expect(calcularImpuesto(100, 'XYZ')).toBe(0);
   });
 
- 
+  test('retorna 0 si el monto es negativo', () => {
+    expect(calcularImpuesto(-50, 'IVA')).toBe(0);
+  });
+
 });
