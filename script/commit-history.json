@@ -228,12 +228,31 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "556ae2ea74e49cc4a948dafd8dbf6f0cd7dbb54a",
     "author": "Alepm22",
     "commit": {
       "date": "2025-06-16T21:02:57.000Z",
       "message": "retorna 0 si el monto no es número",
-      "url": "https://github.com/alepm22/calcularimpuesto/commit/HEAD"
+      "url": "https://github.com/alepm22/calcularimpuesto/commit/556ae2ea74e49cc4a948dafd8dbf6f0cd7dbb54a"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-16"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-06-16T21:14:41.000Z",
+      "message": "esPrimo sin aplicar TDD",
+      "url": "https://github.com/alepm22/esPrimo/commit/HEAD"
     },
     "stats": {
       "total": 0,
