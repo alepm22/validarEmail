@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "96b6370e41b89cbf6bea90408d7149abce3317e5",
     "author": "Dylan",
     "commit": {
       "date": "2025-05-22T02:42:16.000Z",
       "message": "Se elimino lineas de codigo, se crearon lineas, se borraron y crearon archivos",
-      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/96b6370e41b89cbf6bea90408d7149abce3317e5"
     },
     "stats": {
       "total": 0,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-06-16T20:39:52.000Z",
+      "message": "first commit",
+      "url": "https://github.com/Dylancalle/BaseProyect2/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-16"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
