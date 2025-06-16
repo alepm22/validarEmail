@@ -247,12 +247,31 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fe605dc44ead30cf17864303aa854c1498baae28",
     "author": "Alepm22",
     "commit": {
       "date": "2025-06-16T21:14:41.000Z",
       "message": "esPrimo sin aplicar TDD",
-      "url": "https://github.com/alepm22/esPrimo/commit/HEAD"
+      "url": "https://github.com/alepm22/esPrimo/commit/fe605dc44ead30cf17864303aa854c1498baae28"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-16"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-06-16T21:44:02.000Z",
+      "message": "validarEmail",
+      "url": "https://github.com/alepm22/validarEmail/commit/HEAD"
     },
     "stats": {
       "total": 0,
