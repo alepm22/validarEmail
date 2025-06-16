@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "943a14da249b915b4a78b65e7a2c439170cd8004",
     "author": "Alepm22",
     "commit": {
       "date": "2025-06-16T20:59:47.000Z",
       "message": "calcular  impuesto con RC-IVA",
-      "url": "https://github.com/alepm22/calcularimpuesto/commit/HEAD"
+      "url": "https://github.com/alepm22/calcularimpuesto/commit/943a14da249b915b4a78b65e7a2c439170cd8004"
     },
     "stats": {
       "total": 0,
@@ -186,6 +186,25 @@
     },
     "coverage": 85.71,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-06-16T21:01:11.000Z",
+      "message": "retorna 0 si el tipo de impuesto es desconocido",
+      "url": "https://github.com/alepm22/calcularimpuesto/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-16"
+    },
+    "coverage": 87.5,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -13,4 +13,9 @@ describe('calcularImpuesto', () => {
     expect(calcularImpuesto(200, 'RC-IVA')).toBeCloseTo(13); // 200 * 0.5 * 0.13 = 13
   });
 
+  test('retorna 0 si tipo de impuesto es desconocido', () => {
+    expect(calcularImpuesto(100, 'XYZ')).toBe(0);
+  });
+
+ 
 });
