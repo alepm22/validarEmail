@@ -209,12 +209,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a1a52dfcf24e22333935354c1cefd0f4b29bfcd7",
     "author": "Alepm22",
     "commit": {
       "date": "2025-06-16T21:02:11.000Z",
       "message": "retrona 0 si el monmto es negativo",
-      "url": "https://github.com/alepm22/calcularimpuesto/commit/HEAD"
+      "url": "https://github.com/alepm22/calcularimpuesto/commit/a1a52dfcf24e22333935354c1cefd0f4b29bfcd7"
     },
     "stats": {
       "total": 0,
@@ -224,6 +224,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Alepm22",
+    "commit": {
+      "date": "2025-06-16T21:02:57.000Z",
+      "message": "retorna 0 si el monto no es número",
+      "url": "https://github.com/alepm22/calcularimpuesto/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-16"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -21,4 +21,7 @@ describe('calcularImpuesto', () => {
     expect(calcularImpuesto(-50, 'IVA')).toBe(0);
   });
 
+  test('retorna 0 si el monto no es número', () => {
+    expect(calcularImpuesto("cien", 'IVA')).toBe(0);
+  });
 });
